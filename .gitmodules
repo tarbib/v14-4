@@ -1,0 +1,4 @@
+[submodule "mt-software-de/stock-logistics-warehouse"]
+	path = mt-software-de/stock-logistics-warehouse
+	url = git@github.com:mt-software-de/stock-logistics-warehouse.git
+	branch = 14.0-mig-stock_reserve
