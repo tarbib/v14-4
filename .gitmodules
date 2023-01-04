@@ -2,3 +2,8 @@
 	path = mt-software-de/stock-logistics-warehouse
 	url = git@github.com:mt-software-de/stock-logistics-warehouse.git
 	branch = 14.0-mig-stock_reserve
+
+[submodule "Escodoo/purchase-workflow"]
+	path = Escodoo/purchase-workflow
+	url = git@github.com:Escodoo/purchase-workflow.git
+	branch = 14.0-mig-purchase_default_terms_conditions
